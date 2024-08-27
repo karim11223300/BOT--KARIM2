@@ -1,14 +1,7 @@
-﻿telebot
-bs4
-pyfiglet
-instaloader
-fake_useragent
-colorama
-pytube
+websocket
+websocket-client
 requests
-gunicorn
-flask
-flask_restful
+random
 blinker==1.7.0
 click==8.1.7
 colorama==0.4.6
