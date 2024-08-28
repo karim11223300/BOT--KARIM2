@@ -1,11 +1,2 @@
-telebot
-bs4
-pyfiglet
-instaloader
-fake_useragent
-colorama
-pytube
-requests
-gunicorn
-flask
-flask_restful
+pyTelegramBotAPI
+websocket-client
